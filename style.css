@@ -452,10 +452,7 @@ body{
 .feedback{
     padding: 100px 0;
 }
-.feedback__img,
-.feedback__form{
-    /* border: 1px solid red; */
-}
+
 .feedback__inner{
     display: flex;
     justify-content: space-around;
